@@ -8,7 +8,7 @@ My usual stack is Next.js, React, TypeScript, Tailwind, and tRPC.
 Currently working on Blueprint — an AI app builder — and experimenting with AI agents and CodeRabbit for code reviews.
 
 # 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-patel-242718232/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-patel-tech/)
 
 # 💻 Tech Stack
 
