@@ -20,3 +20,9 @@ I'm a [Your Job Title/Area of Expertise] interested in [Your Interests].
 
 ## 📊 My GitHub Stats
 [![Your GitHub Stats](github-readme-stats.vercel.app)](
+
+## 🛠️ My Tech Stack
+[Use badges from Shields.io or similar services to display skills]
+![HTML5](img.shields.io)
+![CSS3](img.shields.io)
+![JavaScript](img.shields.io)
