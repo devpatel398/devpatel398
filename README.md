@@ -1,21 +1,24 @@
-# Hi there, I'm Dev Patel 👋
+# Hi there, I'm Dev 👋
 
-I'm a software developer interested in fullstack development and AI engineering.
+I’m a software developer building modern apps and exploring AI engineering.
 
-## 🔭 I am currently working on...
-- [Project 1, with link if public]
-- [Project 2]
+I design and ship modern web apps, and lately I’ve been exploring AI-powered tools.
 
-## 🌱 I am currently learning...
-- [Technology/Skill 1]
-- [Technology/Skill 2]
+My usual stack is Next.js, React, TypeScript, Tailwind, and tRPC.  
+Currently working on Blueprint — an AI app builder — and experimenting with AI agents and CodeRabbit for code reviews.
 
-## 💡 I'm looking to collaborate on...
-- [Type of project you're interested in]
+🌐 **Socials**  
+- LinkedIn: https://www.linkedin.com/in/your-link-here  
+- Website: https://dev-patel-web.vercel.app
 
-## 🌐 Connect with me:
-*   [LinkedIn](linkedin.com)
-*   [Your Website/Portfolio](https://yourwebsite.com)
-*   [Email](mailto:youremail@example.com)
+💻 **Tech Stack**
 
-## 🛠️ My Tech Stack
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
