@@ -18,11 +18,4 @@ I'm a software developer interested in fullstack development and AI engineering.
 *   [Your Website/Portfolio](https://yourwebsite.com)
 *   [Email](mailto:youremail@example.com)
 
-## 📊 My GitHub Stats
-[![Your GitHub Stats](github-readme-stats.vercel.app)](
-
 ## 🛠️ My Tech Stack
-[Use badges from Shields.io or similar services to display skills]
-![HTML5](img.shields.io)
-![CSS3](img.shields.io)
-![JavaScript](img.shields.io)
