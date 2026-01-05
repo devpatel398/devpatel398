@@ -7,13 +7,11 @@ I design and ship modern web apps, and lately I’ve been exploring AI-powered t
 My usual stack is Next.js, React, TypeScript, Tailwind, and tRPC.  
 Currently working on Blueprint — an AI app builder — and experimenting with AI agents and CodeRabbit for code reviews.
 
-🌐 **Socials**  
+# 🌐 **Socials**  
 - LinkedIn: https://www.linkedin.com/in/your-link-here  
 - Website: https://dev-patel-web.vercel.app
 
-💻 **Tech Stack**
-
-💻 **Tech Stack**
+# 💻 **Tech Stack**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
