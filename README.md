@@ -28,6 +28,8 @@ Currently working on Blueprint — an AI app builder — and experimenting with 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-6366F1?style=flat&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![CodeRabbit](https://img.shields.io/badge/CodeRabbit-AI_Code_Reviews-FF6F00?style=flat)
 
