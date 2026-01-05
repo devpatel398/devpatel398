@@ -1,6 +1,6 @@
 # Hi there, I'm Dev Patel 👋
 
-I'm a [Your Job Title/Area of Expertise] interested in [Your Interests].
+I'm a software developer interested in fullstack development and AI engineering.
 
 ## 🔭 I am currently working on...
 - [Project 1, with link if public]
