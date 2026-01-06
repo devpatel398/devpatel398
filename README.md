@@ -8,9 +8,9 @@ My usual stack is Next.js, React, TypeScript, Tailwind, and tRPC.
 Currently working on Blueprint — an AI app builder — and experimenting with AI agents and CodeRabbit for code reviews.
 
 **Fun Facts:**
-- I rarely drink coffe or tea
-- Anime lover
-- Also a Gamer (League of legends)
+- Rarely drink coffee or tea
+- Anime fan
+- Gamer (League of Legends)
 
 # 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-patel-tech/)
