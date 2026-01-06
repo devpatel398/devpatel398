@@ -7,6 +7,11 @@ I design and ship modern web apps, and lately I’ve been exploring AI-powered t
 My usual stack is Next.js, React, TypeScript, Tailwind, and tRPC.  
 Currently working on Blueprint — an AI app builder — and experimenting with AI agents and CodeRabbit for code reviews.
 
+**Fun Facts:**
+- I rarely drink coffe or tea
+- Anime lover
+- Also a Gamer (League of legends)
+
 # 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-patel-tech/)
 
